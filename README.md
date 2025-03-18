@@ -1,5 +1,7 @@
 <p align="center"> <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/> </p> <h1>osTicket - Setup Guide and Requirements</h1> This guide walks you through the essential requirements and step-by-step installation of the open-source ticketing system, osTicket.<br /> <h2>Video Walkthrough</h2>
+
 - ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 <h2>Tools and Platforms Used</h2>
 Microsoft Azure (Virtual Machines/Compute)
 Remote Desktop Protocol (RDP)
